@@ -6,6 +6,6 @@ def reverse_each_word (string)
   array.split ("")
   end
   
-  word_split.each.reverse
+  word_split.each.reverse_each 
 
 end
